@@ -17,5 +17,5 @@ Cada professor pode orientar trabalhos em diversas subáreas do conhecimento. Os
 devem estar organizados por área que o professor consegue orientar para, caso haja
 necessidade, consultar, por subárea, quais os grupos envolvidos.
 
-## Intruções
+## Instruções
 - Inicializar o programa pela TelaLogin.java
